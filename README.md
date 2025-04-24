@@ -1,4 +1,5 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HavocOmega&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) \ 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HavocOmega&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O01E0UWO)
 
 <!--
