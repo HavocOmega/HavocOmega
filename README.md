@@ -1,14 +1,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HavocOmega&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('havocomega', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Donate',
-    'floating-chat.donateButton.background-color': '#ff5f5f',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
 
 <!--
 **HavocOmega/HavocOmega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
