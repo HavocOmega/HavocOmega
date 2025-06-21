@@ -13,6 +13,7 @@ jobs:
           base: header, activity, community, repositories, metadata
 
           plugin_introduction: yes
+          plugin_introduction_title: yes
 
           plugin_languages: yes
           
