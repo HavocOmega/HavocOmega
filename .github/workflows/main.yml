@@ -17,4 +17,5 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           config_timezone: Canada/Mountain
+          plugin_isocalendar: yes
           token: ${{ secrets.METRICS_TOKEN }}
