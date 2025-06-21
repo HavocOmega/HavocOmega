@@ -11,6 +11,8 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+
+          user: HavocOmega
           base: header, activity, community, repositories, metadata
 
           plugin_introduction: yes
