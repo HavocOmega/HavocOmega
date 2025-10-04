@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1579" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1496" class="">
     <defs>
         <style/>
     </defs>
@@ -1467,7 +1467,7 @@ Game Dev, 3D Modelling, Animating</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.43k
+                                        2.44k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1503,6 +1503,30 @@ Game Dev, 3D Modelling, Animating</div>
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Kizurex/plants-vs-anime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#69da5a7</div>
+                                        <div class="message">feat: new ui imports and ui button animations using "Spr"</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c76b5b6</div>
+                                        <div class="message">fix: added TopbarInset consideration to getMousePosition func</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1603,56 +1627,12 @@ Game Dev, 3D Modelling, Animating</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">Kizurex/plants-vs-anime</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e9b1312</div>
-                                        <div class="message">feat: create tools based on player data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a35984</div>
-                                        <div class="message">feat: getCategory func for itemtypes -&gt; category</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1f7599</div>
-                                        <div class="message">chore: disable character resetting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ddd8f3</div>
-                                        <div class="message">Update init.client.luau</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0082d65</div>
-                                        <div class="message">chore: reformat from "tools" to "items"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8166210</div>
-                                        <div class="message">chore: interaction behavior templates reformat</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d32c50</div>
-                                        <div class="message">chore: basic vendor setup</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Oct 2025, 11:03:55  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Oct 2025, 12:05:25  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
